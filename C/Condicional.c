@@ -1,3 +1,4 @@
+//Verificar a situacao da pessoa dependendo da sua idade.
 //Inicializar as bibliotecas
 #include<stdio.h>
 
