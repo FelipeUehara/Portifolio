@@ -1,0 +1,47 @@
+#quadro1{
+    background-color: #ffffff;
+    width: 15%;
+    float: left;
+    border: 1px solid black;
+    height: 200px;
+    margin: 0px 15px 0px 50px;
+}
+#quadro2{
+    background-color: #00171f;
+    width: 15%;
+    float: left;
+    border: 1px solid black;
+    height: 200px;
+    margin: 0px 15px 0px 15px;
+
+
+}
+#quadro3{
+    background-color: #003459;
+    
+    width: 15%;
+    float: left;
+    border: 1px solid black;
+    height: 200px;
+    margin: 0px 15px 0px 15px;
+}
+#quadro4{
+    background-color: #007ea7;
+    width: 15%;
+    float: left;
+    border: 1px solid black;
+    height: 200px;
+    margin: 0px 15px 0px 15px;
+}
+#quadro5{
+    background-color: #00a8e8;
+    width: 15%;
+    float: left;
+    border: 1px solid black;
+    height: 200px;
+    margin: 0px 50px 0px 15px;
+}
+h1{
+    text-align: center;
+    font-family: 'Aguafina Script', cursive;
+}

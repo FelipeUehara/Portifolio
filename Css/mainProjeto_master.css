@@ -1,0 +1,46 @@
+html{
+    text-align: center;
+    
+}
+.Header{
+    background-color: navy;
+    height: 20px;
+    width: 100%;
+}
+h1,h2,p{
+    text-align: center;
+    color: aliceblue;
+    margin-right: 20%;
+    margin-left: 20%;
+}
+h1{
+    margin:0px;
+}
+body{
+    background-color: aqua;
+    margin: 0px;
+}
+.Texto{
+    width: 80%;
+    align-self: center;
+    margin: 0% 10% 0% 10%;
+    background-color: navy;
+    height: 100%;
+}
+.Dados{
+    text-align: center;
+    align-content: center;
+    align-items: center;
+}
+label{
+    color:white;
+    display: block;
+}
+#buttom1{
+    border-radius: 8px;
+    background-color: orange;
+    display: block;
+    text-align: center;
+    margin: auto;
+    padding:20px;
+}
